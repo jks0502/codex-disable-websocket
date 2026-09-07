@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Disable Websocket"
+  short_description: "Force Codex Responses over HTTP"
+  default_prompt: "Use $codex-disable-websocket to disable WebSocket transport in my Codex configuration while preserving a rollback backup."
